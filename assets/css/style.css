@@ -1003,7 +1003,7 @@ section {
   border-radius: 0;
 }
 .events .card-img img {
-  max-width: 100%;
+  max-width: 50%;
   transition: all 0.3s ease-in-out;
 }
 .events .card-body {
