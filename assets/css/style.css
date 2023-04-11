@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
  
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(red,orange);
+  background: linear-gradient(rgb(8, 7, 120),rgb(169, 0, 181));
   border-radius: 10px;
 }
 
